@@ -1,6 +1,9 @@
 # third_flutter_app
 
-A new Flutter project.
+Just for learning purpose
+
+![main](https://user-images.githubusercontent.com/52631071/204489381-0b1eb9b6-9a93-41dc-b9cb-c8a3b5b38240.PNG)
+
 
 ## Getting Started
 
